@@ -1,6 +1,6 @@
 # DTE LBM Files
 This repo dedicates itself to serving the needs of the Lung Balloon Model subteam who aim to improve their file organization and version control
 
-Battery and Switch source: https://github.com/Digi-Key/digikey-kicad-library  
+See all references and active part file [here](https://docs.google.com/document/d/1QMjIAoFZjg54AbbEjMmA8GU2GEnOYeSXIRdQSNKbI4s/edit?tab=t.0)
 
-LCD source: https://www.snapeda.com/parts/LCD-16X2/Gravitech/view-part/?welcome=home&ref=snap
+New to GitHub? [Here](https://docs.google.com/document/d/1WyrrMa_ALmPAZvznJT0KnZH_fDL_DI7VsiZPKaXexkY/edit?usp=sharing) is a _very_ brief introduction to GitHub (just enough info for our teams needs :3)
