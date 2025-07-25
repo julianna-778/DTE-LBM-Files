@@ -1,7 +1,7 @@
 # DTE LBM Files
 This repo dedicates itself to serving the needs of the Lung Balloon Model subteam who aim to improve their file organization and version control
 
-## The ZIP files in the PCB folder include a KiCad 9.0:
+## The ZIP files in the PCB folder include KiCad 9.0:
 - schematic
 - PCB
 - Gerber files
