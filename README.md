@@ -16,4 +16,3 @@ Here's the [ppw](https://uflorida-my.sharepoint.com/:p:/g/personal/j_gonzalez4_u
 - [Manufacturer](https://www.allpcb.com/) of choice
 - [Here](https://docs.google.com/document/d/1WyrrMa_ALmPAZvznJT0KnZH_fDL_DI7VsiZPKaXexkY/edit?usp=sharing) is a _very_ brief introduction to GitHub that has just enough info for our teams needs :3
 - [Here](https://randomnerdtutorials.com/how-to-install-esp8266-board-arduino-ide/) is a link to the driver download information
-- 
