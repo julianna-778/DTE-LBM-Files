@@ -1,7 +1,7 @@
 # DTE LBM Files
 This repo dedicates itself to serving the needs of the Lung Balloon Model subteam who aim to improve their file organization and version control
 
-## Workshop??
+## Workshop
 Here's the [ppw](https://uflorida-my.sharepoint.com/:p:/g/personal/j_gonzalez4_ufl_edu/ESTzj3oRa_5OslOHV_pKu_4B9L4kbTTlhvHuZAgVIsMCGw?e=MtXirV)
 
 ## The ZIP files in the PCB folder include KiCad 9.0:
@@ -15,3 +15,5 @@ Here's the [ppw](https://uflorida-my.sharepoint.com/:p:/g/personal/j_gonzalez4_u
 - Queen Mansy [video](https://mediasite.video.ufl.edu/Mediasite/Play/034c2cac9c494a558d50666e44f101571d) and DigiKey [video](https://youtu.be/vaCVh2SAZY4?si=QFfocP4VFCrLDv6F) for any PCB design questions
 - [Manufacturer](https://www.allpcb.com/) of choice
 - [Here](https://docs.google.com/document/d/1WyrrMa_ALmPAZvznJT0KnZH_fDL_DI7VsiZPKaXexkY/edit?usp=sharing) is a _very_ brief introduction to GitHub that has just enough info for our teams needs :3
+- [Here](https://randomnerdtutorials.com/how-to-install-esp8266-board-arduino-ide/) is a link to the driver download information
+- 
