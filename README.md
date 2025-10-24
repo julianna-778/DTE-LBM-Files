@@ -4,7 +4,7 @@ This repo dedicates itself to serving the needs of the Lung Balloon Model subtea
 ## New to KiCad?
 Use this [ppw](https://uflorida-my.sharepoint.com/:p:/g/personal/j_gonzalez4_ufl_edu/ESTzj3oRa_5OslOHV_pKu_4B9L4kbTTlhvHuZAgVIsMCGw?e=MtXirV) to get started on...
 1. Learning about what KiCad is
-2. How to start building the LBM schematic and PCB
+2. How to start building the LBM schematic and PCB from scratch
 
 ## Need to download LBM Files?
 1. Download the LBM_footprints.zip zip file from the [LBM-footprints.pretty](https://github.com/julianna-778/DTE-LBM-Files/tree/main/PCB%20Files/LBM-footprints.pretty) folder
