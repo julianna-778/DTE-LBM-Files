@@ -9,8 +9,9 @@ Use this [ppw](https://uflorida-my.sharepoint.com/:p:/g/personal/j_gonzalez4_ufl
 ## Need to download LBM Files?
 1. Download the LBM_footprints.zip zip file from the [LBM-footprints.pretty](https://github.com/julianna-778/DTE-LBM-Files/tree/main/PCB%20Files/LBM-footprints.pretty) folder
 2. Download the LBM-symbols-2.kicad_sym file from the [LBM-symbols](https://github.com/julianna-778/DTE-LBM-Files/tree/main/PCB%20Files/LBM-symbols) folder
-3. Download the latest zip file from the [PCB Files](https://github.com/julianna-778/DTE-LBM-Files/tree/main/PCB%20Files)folder
-    ^This contains schematic, Gerber files, and PCB file
+3. Download the latest zip file from the [PCB Files](https://github.com/julianna-778/DTE-LBM-Files/tree/main/PCB%20Files) folder
+
+   ^This contains schematic, Gerber files, and PCB file
    
 ## Links:
 - See all CAD/symbol/footprint sources in our active part file [here](https://docs.google.com/document/d/1QMjIAoFZjg54AbbEjMmA8GU2GEnOYeSXIRdQSNKbI4s/edit?tab=t.0)
