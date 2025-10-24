@@ -6,11 +6,12 @@ Use this [ppw](https://uflorida-my.sharepoint.com/:p:/g/personal/j_gonzalez4_ufl
 1. Learning about what KiCad is
 2. How to start building the LBM schematic and PCB
 
-## The ZIP files in the PCB folder include KiCad 9.0:
-- schematic
-- PCB
-- Gerber files
-
+## Need to download LBM Files?
+1. Download the LBM_footprints.zip zip file from the [LBM-footprints.pretty] (https://github.com/julianna-778/DTE-LBM-Files/tree/main/PCB%20Files/LBM-footprints.pretty) folder
+2. Download the LBM-symbols-2.kicad_sym file from the [LBM-symbols] (https://github.com/julianna-778/DTE-LBM-Files/tree/main/PCB%20Files/LBM-symbols) folder
+3. Download the latest zip file from the [PCB Files] (https://github.com/julianna-778/DTE-LBM-Files/tree/main/PCB%20Files)folder
+    ^This contains schematic, Gerber files, and PCB file
+   
 ## Links:
 - See all CAD/symbol/footprint sources in our active part file [here](https://docs.google.com/document/d/1QMjIAoFZjg54AbbEjMmA8GU2GEnOYeSXIRdQSNKbI4s/edit?tab=t.0)
 - Info on [Mounting Holes](https://www.pcbway.com/blog/PCB_Basic_Information/What_are_Mounting_Holes_PCB_Knowledge_51332b83.html), and a [video](https://www.youtube.com/watch?v=pS7SrL-ZjmY&t=88s)
