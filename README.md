@@ -23,3 +23,6 @@ Use this [ppw](https://uflorida-my.sharepoint.com/:p:/g/personal/j_gonzalez4_ufl
 - Queen Mansy [video](https://mediasite.video.ufl.edu/Mediasite/Play/034c2cac9c494a558d50666e44f101571d) and DigiKey [video](https://youtu.be/vaCVh2SAZY4?si=QFfocP4VFCrLDv6F) for any PCB design questions
 - [Manufacturer](https://www.allpcb.com/) of choice
 - [Here](https://docs.google.com/document/d/1WyrrMa_ALmPAZvznJT0KnZH_fDL_DI7VsiZPKaXexkY/edit?usp=sharing) is a _very_ brief introduction to GitHub that has just enough info for our teams needs :3
+
+
+<img width="1334" height="737" alt="image" src="https://github.com/user-attachments/assets/eb3abbf5-1d2e-4208-a1df-dac5455f341a" />
