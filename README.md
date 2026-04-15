@@ -1,6 +1,8 @@
 # DTE LBM Files
 This repo dedicates itself to serving the needs of the Lung Balloon Model subteam who aim to improve their file organization and version control
 
+## Are you looking for the final files?
+Find the file, "LBM_Final_PCB.zip" in the PCB folder :3
 ## New to KiCad?
 Use this [ppw](https://uflorida-my.sharepoint.com/:p:/g/personal/j_gonzalez4_ufl_edu/ESTzj3oRa_5OslOHV_pKu_4B9L4kbTTlhvHuZAgVIsMCGw?e=MtXirV) to get started on...
 1. Learning about what KiCad is
